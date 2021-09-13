@@ -12,10 +12,10 @@ I experimented with an animation where I coded white vertical lines appearing ac
 
 - step 2:
 Then, I decided to spice up the background by adding some colored circles with different shades and tones of blue. 
-![] ()
+![](TAN_ArtProjectStep2.png)
 
 - step 3:
-Combined both codes and magically created something that looks quite interesting!
+Finally, I combined both codes and magically created something that looks quite interesting!
 
 ## Outcome
 ![] ()
