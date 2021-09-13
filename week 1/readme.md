@@ -5,7 +5,7 @@ Our assignment was to create a self-portrait of ourself using Processing.
 To complete this task I decided to play around with the shapes that we practiced in class. 
 I used a combination of circles, rectangles, and lines. Using the 'fill' function to also experiment with colors and shades.
 ## Outcome
-(TAN_SelfPortraitScreenshot.png)
+![](TAN_SelfPortraitScreenshot.png)
 ## Challenges
 The biggest challenge for me was trying to get shape placement correctly with coordinates. I found it really really hard imagine where the shapes would be 'played.' 
 This is also my first time using any code and I found it really hard to grapple with the language and numbers used. 
