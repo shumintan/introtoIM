@@ -16,6 +16,7 @@ Then, I decided to spice up the background by adding some colored circles with d
 
 - step 3:
 Finally, I combined both codes and magically created something that looks quite interesting!
+![](TAN_ArtProjectFinal.mov)
 
 ## Outcome
 ![](TAN_ArtProjectFinal.mov)
