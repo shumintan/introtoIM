@@ -16,10 +16,12 @@ Then, I decided to spice up the background by adding some colored circles with d
 
 - step 3:
 Finally, I combined both codes and magically created something that looks quite interesting!
-![](TAN_ArtProjectFinal.mov)
+![](TAN_ArtProjectFinal.png)
 
 ## Outcome
-![](TAN_ArtProjectFinal.mov)
+This artwork is supposed to be animated, but I could only insert a screenshot below:
+
+![](TAN_ArtProjectFinal.png)
 
 ## Challenges
 The biggest struggle that I encountered during this assignment was understanding the loop system in code. I thought I understood it in class, but in practice I foujd it much harder to understand. To be honest, I had to search a video on YouTube to get an extra explanation of the loop system. I finally understood in the end but am still a little unsure. 
