@@ -25,3 +25,4 @@ Finally, I combined both codes and magically created something that looks quite 
 The biggest struggle that I encountered during this assignment was understanding the loop system in code. I thought I understood it in class, but in practice I foujd it much harder to understand. To be honest, I had to search a video on YouTube to get an extra explanation of the loop system. I finally understood in the end but am still a little unsure. 
 
 ## Reflection
+Overall, I enjoyed this assignment a lot more than the first. There was greater flexibility in the art that I found myself coding and I feel slightly more comfortable with the material that I covered. I am nervous about incorporating more things in the upcoming week but am eager to practice as well. 
