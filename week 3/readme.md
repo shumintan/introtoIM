@@ -15,18 +15,18 @@ Then, I decided to add the additional shapes and lines which was language that I
 ![](TAN_ArtProject2Step2.png)
 
 - step 3: 
-Next, I tried to play with rotation and Object-Orientation, so I decided to try add window wipers (like what you would see from a car window). 
-But it failed - absolutely horrendous, so I decided to change it into a windmill. :)
+Next, I tried to play with rotation and Object-Orientation from the videos we were assigned in class, so I decided to try add window wipers (like what you would see from a car window). 
+..... But it failed - absolutely horrendous, so I decided to change it into a windmill. :)
 ![](TAN_ArtProject2Step3.png)
 
 ## Outcome
+Tadaa!
 ![](TAN_FinalArtProject2.png)
 
 ## Challenges
-
+The process for this assignment definitely took a longer time to figure out. There was a lot of trial/error with arrays and with translation/rotation. I think I just find it hard to create a mental image of what it would look like in code. Oftentimes, I would also have a fixated image/artwork that I have in mind, but this assignment has taught me that artwork can be created when we go with the flow as well. So flexiblility is key!
 
 ## Reflections
-I found this assignment again, very fun and frustrating. 
+I found this assignment, again, very fun and frustrating!!
 Fun, because I was starting to get to grips with coding language. I was more comfortable and confident with the format and structure of code. 
-Frustrating, however, because I had to spend extra time on the trial/error process with arrays and object-orientation. 
-Am glad that I finally could produce artwork that I am happy with. 
+Frustrating, however, because I had to spend extra time on the trial/error process with arrays and object-orientation. Am glad that I finally could produce artwork that I am happy with. 
