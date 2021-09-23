@@ -16,10 +16,11 @@ Then, I decided to add the additional shapes and lines which was language that I
 
 - step 3: 
 Next, I tried to play with rotation and Object-Orientation, so I decided to try add window wipers (like what you would see from a car window). 
-But it failed - horrendous! So I decided to change it into a windmill. :)
+But it failed - absolutely horrendous, so I decided to change it into a windmill. :)
 ![](TAN_ArtProject2Step3.png)
 
 ## Outcome
+![](TAN_FinalArtProject2.png)
 
 ## Challenges
 
