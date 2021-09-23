@@ -6,10 +6,12 @@ To complete this task I decided to play around with arrays that we learned in cl
 - step 1:
 I first started by rewatching the assignments that we worked on in class with arrays (e.g. with the balls) and experimented there. 
 I watched this extra video on Arrays to help my undersatnding: https://www.youtube.com/watch?v=NptnmWvkbTw. I then changed the balls to lines:
+
 ![](TAN_ArtProject2Step1.png)
 
 - step 2: 
 Then, I decided to add the additional shapes and lines which was language that I was more familiar with.
+
 ![](TAN_ArtProject2Step2.png)
 
 - step 3: 
