@@ -26,9 +26,9 @@ Tadaa!
 ![](TAN_FinalArtProject2.png)
 
 ## Challenges
-The process for this assignment definitely took a longer time to figure out. There was a lot of trial/error with arrays and with translation/rotation. I think I just find it hard to create a mental image of what it would look like in code. Oftentimes, I would also have a fixated image/artwork that I have in mind, but this assignment has taught me that artwork can be created when we go with the flow as well. So flexiblility is key!
+The process for this assignment definitely took longer time to figure out. There was a lot of trial/error with arrays and with translations/rotations. I find it incredibly difficult to create a mental image of what I want my code to look like. Oftentimes, I would  have a fixated image/artwork that I have in mind, but it turns out otherwise! This assignment has taught me that artwork can be created when we go with the flow too. So flexiblility is key!
 
 ## Reflections
 I found this assignment, again, very fun and frustrating!!
-Fun, because I was starting to get to grips with coding language. I was more comfortable and confident with the format and structure of code. 
+Fun, because I am starting to get to grips with coding language. I am more comfortable and confident with the format and structure of code. 
 Frustrating, however, because I had to spend extra time on the trial/error process with arrays and object-orientation. Am glad that I finally could produce artwork that I am happy with. 
