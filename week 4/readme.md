@@ -20,7 +20,7 @@ Then, I decided to practice using the println function to obtain the total numbe
 I used the string data to project the countries around the world. 
 ![](TAN_DataVisualizationStep4.png)
 
--step 5: 
+- step 5: 
 I finally added the circles and size base on the prevalence of bullying. 
 I also tried to play with color to make the information more visually appealling and accessible.
 ![](TAN_DataVisualizationStep5.png)
