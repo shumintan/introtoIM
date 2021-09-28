@@ -1,4 +1,4 @@
-# Week 2: Assignment Art Project
+# Week 2: Art Project
 
 ## Synopsis:
 
