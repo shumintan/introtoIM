@@ -1,4 +1,4 @@
-# June 2: Assignment 2
+# Week 2: Assignment Art Project
 
 ## Synopsis:
 
