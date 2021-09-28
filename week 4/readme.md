@@ -16,7 +16,7 @@ I converted this excel file into a CSV file.
 - step 3: 
 Then, I decided to practice using the println function to obtain the total number of columns/ rows/ string and float data. 
 
-- step 4:  
+- step 4:
 I used the string data to project the countries around the world. 
 ![](TAN_DataVisualizationStep4.png)
 
@@ -27,10 +27,15 @@ I also tried to play with color to make the information more visually appealling
 
 ## Outcome
 This is the final outcome! I'm still unsure how to avoid the overlapping of words, so I am still working on it. But as of now, this is the final outcome that I am happy with. 
+
 Green = Low 
+
 Yellow = Medium 
+
 Red = High 
+
 Purple = Very High
+
 ![](TAN_DataVisualizationFinal.png)
 
 ## Challenges
