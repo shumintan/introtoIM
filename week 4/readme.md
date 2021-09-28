@@ -30,7 +30,10 @@ This is the final outcome! I'm still unsure how to avoid the overlapping of word
 ![](TAN_DataVisualizationFinal.png)
 
 ## Challenges
-I'm not sure if I had forgotten what I had learned in class, but it took some time to recall how to use String Data from what I was watching in class. It always seems easy and magical when I am watching others code, but I find myself clueless when I have to do it myself. I rewatched this youtube video before starting fresh on this new project: https://www.youtube.com/watch?v=pJthD0t6k1U.
+I'm not sure if I had forgotten what I had learned in class, but it took some time to recall how to use String Data from what I was watching in class. It always seems easy and magical when I am watching others code, but I find myself clueless when I have to do it myself. I researched and watched several links before starting fresh on this new project, I found these explanations really helpful:
+https://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/#visualizing-accuracy-vs-synthesis
+https://www.youtube.com/watch?v=pJthD0t6k1U
+https://processing.org/tutorials/data
 
 ## Reflection
 I overall really really enjoyed this project. It felt like I was doing something beyond the artistic form. Playing with real-life applicable data really motivated me to continue despite the frustrations. I genuinely think that this project will be something I attempt again in my free time. :-) I know I still have lots to learn, but am really appreciate interdisciplinary space between data and art.
