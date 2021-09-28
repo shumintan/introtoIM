@@ -6,7 +6,7 @@ The task was to pracetice loading data and displaying text. We had to either mak
 
 ## What I did:
 
--step 1:
+- step 1:
 I start my project by going on the UNICEF database to collect materials. I was interested in child development, so extracted the prevalence of Peer Bullying aroudn the world. 
 ![](UNICEF_PeerBullyingData.png)
 
