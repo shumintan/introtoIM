@@ -26,7 +26,7 @@ I also tried to play with color to make the information more visually appealling
 ![](TAN_DataVisualizationStep5.png)
 
 ## Outcome
-This is the final outcome! I'm still unsure how to avoid the overlapping of words, so I am still working on it. But as of now, this is the final outcome that I am happy with. 
+This is the final outcome! I'm still unsure how to avoid the overlapping of words, so I am still working on it. But as of now, this is the final outcome that I am happy with. Green = Low / Yellow = Medium / Red = High / Purple = Very High
 ![](TAN_DataVisualizationFinal.png)
 
 ## Challenges
