@@ -26,6 +26,35 @@ I wasn't very happy with what it produced, but I used similar concepts in terms 
 **Oct 3 - I started to incorporate the code to animate two circles.**
 ![](TAN_TwoCircles.png)
 
-This is an animation of two circles bouncing off the walls. I used codes from my first initial idea and was later inspired by an example on the Processing Library. Am still unsure where I want my midterm game to go (I realize that I was too inept to produce anything fancy, so decided to explore and adapt as I learned new ways to code). 
+This is an animation of two circles bouncing off the walls. I used codes from my first initial idea and was later inspired by an example found on Processing Library by Daniel Shiffman. Am still unsure where I want my midterm game to go (I realize that I was too inept to produce anything fancy, so decided to explore and adapt as I learned new ways to code). 
 
 **Oct 5 - I began to add new elements to this draft.**
+![](TAN_CaptureTheFlag.png)
+
+I changed the color of the background and circles to spice up the aesthetics of the game! 
+I added the following code to animate a red square to move upon clicking on the arrow buttons.
+
+````
+  void update () {
+    if (keyPressed) {
+      if (keyCode == DOWN) {
+        direction = 0;
+        y+=speed;
+      }
+      if (keyCode == LEFT) {
+        direction = 1;
+        x-=speed;
+      }
+      if (keyCode == RIGHT) {
+        direction = 2;
+        x+=speed;
+      }
+      if (keyCode == UP) {
+        direction = 3;
+        y-=speed;
+      } 
+````
+
+I finally inserted a picture of a flag and decided to make a game that is similar to capture the flag. Looking to perhaps add a timer in to challenge the player to capture the flag without touching the green boulders.
+
+
