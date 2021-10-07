@@ -23,5 +23,9 @@ The game must:
 This is an animation of a donut rotating across the x-axis.  
 I wasn't very happy with what it produced, but I used similar concepts in terms of code for my next idea. 
 
-Oct 5 - 
+**Oct 3 - I started to incorporate the code to animate two circles.**
 ![](TAN_TwoCircles.png)
+
+This is an animation of two circles bouncing off the walls. I used codes from my first initial idea and was later inspired by an example on the Processing Library. Am still unsure where I want my midterm game to go (I realize that I was too inept to produce anything fancy, so decided to explore and adapt as I learned new ways to code). 
+
+**Oct 5 - I began to add new elements to this draft.**
