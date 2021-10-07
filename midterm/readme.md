@@ -31,8 +31,8 @@ This is an animation of two circles bouncing off the walls. I used codes from my
 **Oct 5 - I began to add new elements to this draft.**
 ![](TAN_CaptureTheFlag.png)
 
-I changed the color of the background and circles to spice up the aesthetics of the game! 
-I added the following code to animate a red square to move upon clicking on the arrow buttons.
+I changed the color of the background to black and circles to green so the game looks better aesthetically! 
+I added the following code to animate a red square to move when directed by the arrow buttons.
 
 ````
   void update () {
@@ -55,6 +55,4 @@ I added the following code to animate a red square to move upon clicking on the 
       } 
 ````
 
-I finally inserted a picture of a flag and decided to make a game that is similar to capture the flag. Looking to perhaps add a timer in to challenge the player to capture the flag without touching the green boulders.
-
-
+I finally inserted a picture of a flag and decided to make a game that is similarly mimics capture the flag. Players must direct the red square and avoid touching the green boulders otherwise they have to restart the game. Looking to incorporate a timer in the left hand corner to challenge the player to collect the flag as fast as they can. 
