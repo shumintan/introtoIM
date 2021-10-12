@@ -97,7 +97,7 @@ void draw() {
 ````
 **Oct 12 - And that's the final outcome!!** 
 
-^^ Feel free to copy the code and wishing you the best of luck in this game!
+^^ Feel free to copy the code in my MidTerm file and wishing you the best of luck in this game!
 
 ## Challenges
 At the very start of the project, I remember being completely and utterly lost. I had ideas that I wanted to create but did not know if they were too difficult to execute and code. Something I struggled with (and still am now) is figuring out where I should place codes (e.g. in which tab? nder which void?). I'm not quite sure if I am explaining this correctly... An instance of this struggle would be when I wanted to add sound to my code, but didn't know where to input my code for music in my existing code. I referred to many of Processing's help page, so thank goodness!
