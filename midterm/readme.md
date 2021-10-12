@@ -57,7 +57,7 @@ I added the following code to animate a red square to move when directed by the 
 
 I finally inserted a picture of a flag and decided to make a game that is similarly mimics capture the flag. Players must direct the red square and avoid touching the green boulders otherwise they have to restart the game. Looking to incorporate a timer in the left hand corner to challenge the player to collect the flag as fast as they can. 
 
-**Oct 10 - I starting working on creating new screens. **
+**Oct 10 - I starting working on creating new screens.**
 
 screen 1 as an intro page,
 screen 2 as the game,
@@ -95,6 +95,15 @@ void draw() {
     game = new Game (); // creating a new game once mouse is pressed
   }
 ````
-**Oct 12 - And that's the final outcome!!** :)
+**Oct 12 - And that's the final outcome!!** 
+
+^^ Feel free to copy the code and wishing you the best of luck in this game!
+
+## Challenges
+At the very start of the project, I remember being completely and utterly lost. I had ideas that I wanted to create but did not know if they were too difficult to execute and code. Something I struggled with (and still am now) is figuring out where I should place codes (e.g. in which tab? nder which void?). I'm not quite sure if I am explaining this correctly... An instance of this struggle would be when I wanted to add sound to my code, but didn't know where to input my code for music in my existing code. I referred to many of Processing's help page, so thank goodness!
+
+## Reflection
+I am really really happy with my final outcome, I treat this game like it's my baby! Although it was really challenging, I would say that it solidified existing knowledge that I already know and reviewed things that I was unsure of (and even thing I didn't know I was unsure of)! I can remember laughing and cheering when I got the flag to ''follow'' my player back home - best feeling ever. Nonetheless, I'm not sure if it is a process I want to repeat all over again, but I really enjoyed creating the intro / ending pages where I could play with design a little more. 
+
 
 
