@@ -56,3 +56,45 @@ I added the following code to animate a red square to move when directed by the 
 ````
 
 I finally inserted a picture of a flag and decided to make a game that is similarly mimics capture the flag. Players must direct the red square and avoid touching the green boulders otherwise they have to restart the game. Looking to incorporate a timer in the left hand corner to challenge the player to collect the flag as fast as they can. 
+
+**Oct 10 - I starting working on creating new screens. **
+
+screen 1 as an intro page,
+screen 2 as the game,
+screen 3 as the won/lost page.
+
+![](TAN_IntroPage.png)
+
+![](TAN_GamePage.png)
+
+![](TAN_Ending.png)
+
+**Oct 10 - I decided to replace 'timer' with'homeBase,' and added some music.**
+
+````
+Game game; 
+
+import processing.sound.*;
+SoundFile music;
+
+void setup() {
+  game = new Game ();
+  size(800, 300);
+
+  music = new SoundFile (this, "mixkit-retro-game.mp3");
+  music.loop ();
+  music.play();
+}
+void draw() {
+
+  background(0);
+  boolean playing = true; // for the music
+  game.display (); 
+  if (game.screen == 3 && mousePressed) { 
+    println ("here");
+    game = new Game (); // creating a new game once mouse is pressed
+  }
+````
+**Oct 12 - And that's the final outcome!!** :)
+
+
