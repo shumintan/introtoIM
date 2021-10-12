@@ -69,7 +69,7 @@ screen 3 as the won/lost page.
 
 ![](TAN_Ending.png)
 
-**Oct 10 - I decided to replace 'timer' with'homeBase,' and added some music.**
+**Oct 10 - I decided to replace 'timer' with 'homeBase,' then added some background music for suspense.**
 
 ````
 Game game; 
