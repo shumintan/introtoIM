@@ -13,20 +13,24 @@ I first played with the breadboard, wires, LED, switch and arduino to ensure tha
 
 - step 2: 
 I decided to draw up a schematic because I found this really helpful during class for me to visualize the flow of electricity throughout the circuit.
+
 ![](TAN_UnusualSwitch1.png)
 
 - step 3:
 I wanted to make a switch out of an everyday activity that, when combined, could transform into a switch and turn on a light. 
 So, I decided to use the closing motion of a book to create a switch.
+
 ![](TAN_UnusualSwitch2.png)
 
 - step 4:
 I decided to add a second LED (green/red) and a second switch to my circuit. This meant that I could choose which color LED I want lit, based on whether I am reading or not. 
 
 Reading= OK (GREEN):
+
 ![](TAN_UnusualSwitch3.png)
 
 Closed book = DO NOT DISTURB (RED):
+
 ![](TAN_UnusualSwitch4.png)
 
 - step 5:
