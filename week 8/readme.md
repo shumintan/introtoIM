@@ -36,6 +36,8 @@ Closed book = DO NOT DISTURB (RED):
 - step 5:
 Finally, I shortened the delay time on Arduino so that the green LED would be blink rapidly. I left the red LED remaining bright and lit. 
 
+![](TAN_UnusualSwitchFinal.mov)
+
 ## Outcome
 My final outcome is this video: TAN_UnusualSwitchFinal.mp4 - which you can find in the 'week 8' folder!
 
