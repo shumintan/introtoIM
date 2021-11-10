@@ -55,9 +55,9 @@ On Arduino, I began to manipulate the analog/digital input information to alter 
 
 ## Outcome
 This is my final outcome:
-![](TAN_ADCircuit.jpg)
+![](TAN_ADRedLED.gif)
 
-![](TAN_ADCircuit.jpg)
+![](TAN_ADBlueLED.gif)
 
 ## Challenges
 
