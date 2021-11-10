@@ -13,12 +13,12 @@ Before attempting this project, I made sure that I could create a circuit with a
 - step 2: 
 I decided to draw up a schematic because I found this really helpful during class for me to visualize the flow of electricity throughout the circuit.
 
-![](TAN_ADSchematic.jpg)
+![](TAN_ADSchematic.JPG)
 
 - step 3:
 I began to start building the circuit with the wires, LED, breadboard, LDR, switch and arduino. 
 
-![](TAN_ADCircuit.jpg)
+![](TAN_ADCircuit.JPG)
 
 - step 4: 
 On Arduino, I began to manipulate the analog/digital input information to alter the LED outputs. For instance:
