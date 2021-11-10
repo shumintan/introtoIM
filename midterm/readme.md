@@ -1,4 +1,4 @@
-# Midterm
+# Midterm - Week 6 / Week 7
 
 Yes - you've guessed it! We have already reached our mid-term project and I am absolutely terrified.
 
