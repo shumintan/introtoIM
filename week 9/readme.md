@@ -54,10 +54,11 @@ On Arduino, I began to manipulate the analog/digital input information to alter 
 ````
 
 ## Outcome
-This is my final outcome:
-![](TAN_ADRedLED.gif)
+This is the final outcome!!
 
 ![](TAN_ADBlueLED.gif)
+
+![](TAN_ADRedLED.gif)
 
 ## Challenges
 
