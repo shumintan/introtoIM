@@ -1,45 +1,30 @@
-# Week 8: Creating an Unusual Switch
-To get creative with swtiches!
+# Week 9: Analog and Digital Sensors
+To get creative with analog and digital sensors!
 
 ## Synopsis:
-Our assignment was to create an unusual switch, using the Arduino digital input and output for the interaction. 
+Our assignment was to create and get information from at least one analog sensor and at least one digital sensor, then to use this information to control at least two LEDS - one in a digital fashion and the other in an analog fashion.
 
 ## What I did:
-I started this project by drawing inspiration from [here](https://itp.nyu.edu/physcomp/labs/switches/#Get_Creative_With_Switches). 
-This was the link that Professor Shiloh provided for us to look at. 
+I started this project by reviewing a lot of the theory and practical information from class. 
 
 - step 1: 
-I first played with the breadboard, wires, LED, switch and arduino to ensure that I had a functioning circuit.
+Before attempting this project, I made sure that I could create a circuit with an analog sensor and a digital sensor separately. After a few practices, did I only start combining the two on the same breadboard.
 
 - step 2: 
 I decided to draw up a schematic because I found this really helpful during class for me to visualize the flow of electricity throughout the circuit.
 
-![](TAN_UnusualSwitch1.png)
+![](TAN_ADSchematic.jpg)
 
 - step 3:
-I wanted to make a switch out of an everyday activity that, when combined, could transform into a switch and turn on a light. 
-So, I decided to use the closing motion of a book to create a switch.
+I began to start building the circuit with the wires, LED, breadboard, LDR, switch and arduino. 
 
-![](TAN_UnusualSwitch2.png)
+![](TAN_ADCircuit.jpg)
 
-- step 4:
-I decided to add a second LED (green/red) and a second switch to my circuit. This meant that I could choose which color LED I want lit, based on whether I am reading or not. 
-
-Reading= OK (GREEN):
-
-![](TAN_UnusualSwitch3.png)
-
-Closed book = DO NOT DISTURB (RED):
-
-![](TAN_UnusualSwitch4.png)
-
-- step 5:
-Finally, I shortened the delay time on Arduino so that the green LED would be blink rapidly. I left the red LED remaining bright and lit. 
-
-![](TAN_UnusualSwitchFinal.mov)
+- step 4: 
+On Arduino
 
 ## Outcome
-My final outcome is this video: TAN_UnusualSwitchFinal.mp4 - which you can find in the 'week 8' folder!
+My final outcome is this video: TAN_UnusualSwitchFinal.mp4 - which you can find in the 'week 9' folder!
 
 ## Challenges
 The biggest challenge for me over this project is understanding the functionality of the breadboard and trying to imagine the flow of electricity from arduino to the breadboard. I also found it difficult to come up with a creative and unusual switch. Because it was difficult for the wires to touch each other, I had to find sheets of metal that I wrapped around the coil to make sure that it has a greater surface area and sensitivity. 
