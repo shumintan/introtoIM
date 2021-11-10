@@ -63,5 +63,9 @@ This is the final outcome!!
 ![](TAN_ADRedLEDBlueLED.gif)
 
 ## Challenges
+The most challenging thing for me was figuring out how to combine both analog and digital sensors together on the same breadboard. Step 2-3 was the hardest when I had to visualize both components working together on the same board. I honestly still struggle with the how arduino works but I think I'm getting a better understanding. I also struggled with the code on Arduino, but managed to follow the lecture notes and the codes we used in class. 
 
 ## Reflections
+During class, I often find myself following the concepts of code and Arduino very easily. In practice, however, I struggle much more with trying to create and build the circuit. There is a lot more problem-solving that I have to engage in when I am independent and I find it a good learning challenge. I constantly look back at our lecture notes, schematics, and the codes that have been written in class. I sometimes also refer back to the videos/pictures that I took of my breadboard during class as reference points. 
+
+What I also find incredible about this latter half of the course is the synthesis of writing code on program and the electrical circuit itself. This course initially produced results intangibly from screen, but I find it bizarre how we can now produce results tangibly from screen! Crazy, isn't it!
