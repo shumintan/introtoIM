@@ -21,13 +21,44 @@ I began to start building the circuit with the wires, LED, breadboard, LDR, swit
 ![](TAN_ADCircuit.jpg)
 
 - step 4: 
-On Arduino
+On Arduino, I began to manipulate the analog/digital input information to alter the LED outputs. For instance:
+
+1. I wanted the blueLED to blink when the blueButton was pushed. 
+
+````
+ // the switch (digital) determines if blueLED is off/on
+
+  // new variable of buttonState
+  int buttonState = digitalRead (blueButton);
+  if (buttonState == HIGH) {
+    digitalWrite (blueLED, HIGH);
+    delay (100);
+    digitalWrite (blueLED, LOW);
+    delay (100);
+    digitalWrite (blueLED, HIGH);
+  }
+  else digitalWrite (blueLED, LOW);
+````
+
+2. I wanted the redLED to dim when the LDRPin was covered. 
+
+````
+ int ldrValue = analogRead (ldrPin);
+  Serial.println (ldrValue);
+  ldrValue = constrain (ldrValue, 200, 800);
+  int brightness = map (ldrValue, 200, 900, 35, 3000);
+
+  // the light sensor (analog) determines the brightness of redLED
+  if (brightness > 150) digitalWrite (redLED, HIGH);
+  else digitalWrite (redLED, LOW);
+````
 
 ## Outcome
-My final outcome is this video: TAN_UnusualSwitchFinal.mp4 - which you can find in the 'week 9' folder!
+This is my final outcome:
+![](TAN_ADCircuit.jpg)
+
+![](TAN_ADCircuit.jpg)
 
 ## Challenges
-The biggest challenge for me over this project is understanding the functionality of the breadboard and trying to imagine the flow of electricity from arduino to the breadboard. I also found it difficult to come up with a creative and unusual switch. Because it was difficult for the wires to touch each other, I had to find sheets of metal that I wrapped around the coil to make sure that it has a greater surface area and sensitivity. 
 
 ## Reflections
-The shift from coding to electricity is a bit of a jump for me. This last week has been a little challenging in class too. I know I can always freely ask questions in class too, but sometimes I feel like I'm not sure what I should be asking or what I might be missing out. I do enjoy the hands-on work that we do in class and my favorite part is uploading arduino code and seeing the LED light up. I found it very amusing when I was building my circuit for the unusual switch - happy that I could take something I do in my everyday life and incorporate it.
