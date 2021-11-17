@@ -42,7 +42,7 @@ Overall, my final outcome consists of two main digital sensors that controls whi
 ![](MusicalInstrument.png)
 
 When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. 
-Play [Here](https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/view?usp=sharing)
+Play [Here!](https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/view?usp=sharing)
 
 ````
  if (greenSwitchState == HIGH ) {
@@ -57,7 +57,7 @@ Play [Here](https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/vi
 ````
 
 When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. 
-Play [Here](https://drive.google.com/file/d/1XXnd4mYxdjiFpEt88B1GoIjqVa5sw2Jj/view?usp=sharing)
+Play [Here!](https://drive.google.com/file/d/1XXnd4mYxdjiFpEt88B1GoIjqVa5sw2Jj/view?usp=sharing)
 
 ````
 if (yellowSwitchState == HIGH) {
