@@ -42,7 +42,7 @@ Overall, my final outcome consists of two main digital sensors that controls whi
 ![](MusicalInstrument.png)
 
 When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. 
-Play [Here] (https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/view?usp=sharing)
+Play [Here](https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/view?usp=sharing)
 
 ````
  if (greenSwitchState == HIGH ) {
@@ -57,7 +57,7 @@ Play [Here] (https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/v
 ````
 
 When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. 
-Play [Here] (https://drive.google.com/file/d/1XXnd4mYxdjiFpEt88B1GoIjqVa5sw2Jj/view?usp=sharing)
+Play [Here](https://drive.google.com/file/d/1XXnd4mYxdjiFpEt88B1GoIjqVa5sw2Jj/view?usp=sharing)
 
 ````
 if (yellowSwitchState == HIGH) {
@@ -75,4 +75,8 @@ if (yellowSwitchState == HIGH) {
 
 ## Challenges
 
+What I found most challenging for this project was understanding how to use and map the potentiometer value so that the frequency changes based on the analog input sensors. I did a many times of trail-and-error on Arduino until I got it to work. Because I couldn't recall seeing a schematic with the component either, I decided to search it up and learn more about the component. 
+
 ## Reflections
+
+Overall, I thought coding the theme song to Game of Thrones as the funniest part of creating this musical instrument. Only after I coded it and got it playing did I realize that my project resulted as a musical box rather than a musical instrument. I therefore had to learn how to use the analog sensor as a source of creating music, which was what I found the most challenging. I'm glad I got it working in the end, but the frequency produces rather unpleasant noises (at least in comparison to the Game Of Thrones main theme song)!
