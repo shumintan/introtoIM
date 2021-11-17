@@ -33,18 +33,17 @@ const  int noteDurations[] = {
 - step 3:
 I decided to use the potentiometer as my analog sensor and add buttons as my digital sensors. I drew up a schematic to show what I wanted the circuit to look like and function as:
 
-![](TAN_UnusualSwitch2.png)
+![](MusicalInstrumentSchematic.png)
 
 ## Outcome
 Overall, my final outcome consists of two main digital sensors that controls which tune is played. 
 
-![](TAN_UnusualSwitch2.png)
+![](MusicalInstrument.png)
 
-When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. 
-When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. 
+When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. You can find it here.
+
+When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. You can find it here.
 
 ## Challenges
-The biggest challenge for me over this project is understanding the functionality of the breadboard and trying to imagine the flow of electricity from arduino to the breadboard. I also found it difficult to come up with a creative and unusual switch. Because it was difficult for the wires to touch each other, I had to find sheets of metal that I wrapped around the coil to make sure that it has a greater surface area and sensitivity. 
 
 ## Reflections
-The shift from coding to electricity is a bit of a jump for me. This last week has been a little challenging in class too. I know I can always freely ask questions in class too, but sometimes I feel like I'm not sure what I should be asking or what I might be missing out. I do enjoy the hands-on work that we do in class and my favorite part is uploading arduino code and seeing the LED light up. I found it very amusing when I was building my circuit for the unusual switch - happy that I could take something I do in my everyday life and incorporate it.
