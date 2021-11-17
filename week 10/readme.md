@@ -12,7 +12,7 @@ Our assignment was to create a musical instrument with Arduino and to fulfill th
 
 - step 1: 
 I started this project by reviweing how to connect the buzzer and the potentiometer. I used the following schematics from the lecture notes and from the SparkFun Inventor's Kit to help strengthen my basic understanding of the two components before visualizing my final musical instrument:
-![] (PotentiometerSchematic.png)
+![](PotentiometerSchematic.png)
 
 - step 2: 
 After I connected my buzzer, I decided to play around with creating pitches and a melody. I ended up with a melody that played the Game of Thrones main theme song. 
