@@ -12,6 +12,7 @@ Our assignment was to create a musical instrument with Arduino and to fulfill th
 
 - step 1: 
 I started this project by reviweing how to connect the buzzer and the potentiometer. I used the following schematics from the lecture notes and from the SparkFun Inventor's Kit to help strengthen my basic understanding of the two components before visualizing my final musical instrument:
+
 ![](PotentiometerSchematic.png)
 
 - step 2: 
@@ -40,9 +41,11 @@ Overall, my final outcome consists of two main digital sensors that controls whi
 
 ![](MusicalInstrument.png)
 
-When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. You can find it here.
+When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. 
+Play here!
 
-When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. You can find it here.
+When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. 
+Play here!
 
 ## Challenges
 
