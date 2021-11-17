@@ -42,10 +42,36 @@ Overall, my final outcome consists of two main digital sensors that controls whi
 ![](MusicalInstrument.png)
 
 When the greenButton is HIGH, the idea is to rotate the potentiometer so that the frequency changes with it. 
-Play here!
+Play [Here] (https://drive.google.com/file/d/1N4cZVIRxaOwQMGfQabI4HTnZX4zqrM6x/view?usp=sharing)
+
+````
+ if (greenSwitchState == HIGH ) {
+    //map the potentiometer value to be frequency
+    volumeValue = map(volumeValue, 0, 1023, 31, 4978);
+    tone(8, volumeValue, 250);
+    delay(300);
+    noTone(8);
+  }   else if (greenSwitchState == LOW);
+
+  noTone(8);
+````
 
 When the yellowButton is HIGH, the idea is that the Game of Thrones main theme song will play. 
-Play here!
+Play [Here] (https://drive.google.com/file/d/1XXnd4mYxdjiFpEt88B1GoIjqVa5sw2Jj/view?usp=sharing)
+
+````
+if (yellowSwitchState == HIGH) {
+    for (int thisNote = 0; thisNote < 20; thisNote++) {
+      int noteDuration = 1000 / noteDurations[thisNote];
+      tone(8, melody[thisNote], noteDuration);
+
+      int pauseBetweenNotes = noteDuration * 1.3;
+      delay(pauseBetweenNotes);
+      noTone (8);
+    }
+  }    else if (yellowSwitchState == LOW );
+  noTone (8); 
+  ````
 
 ## Challenges
 
