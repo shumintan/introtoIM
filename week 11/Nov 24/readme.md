@@ -47,7 +47,7 @@ For a video of the change, click [Here!](https://drive.google.com/file/d/1bi9a5t
 
 - step 5:
 I added a timer and a 'point' system to keep track of how many clicks acccumulated.
-![](BoucingBallGameFinal.png)
+![](BouncingBallGameFinal.png)
 
 ## Outcome
 Overall, this is my final outcome!
