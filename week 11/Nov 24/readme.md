@@ -35,7 +35,9 @@ I added a timer and a 'point' system to keep track of the droplet collected.
 ## Outcome
 Overall, this is my final outcome:
 
-![](
+![](BoucingBallGameFinal.png)
+
+Play video here
 
 ````
  if (greenSwitchState == HIGH ) {
@@ -50,13 +52,8 @@ Overall, this is my final outcome:
 ````
 
 
-
-````
-
-  ````
-
 ## Challenges
-
+I generally thought that writing and understanding Serial Communication was the toughest part of the task. I rewatched the video a couple times to fully grasp the concept. Since we built and coded the potentiometer together in class, I found that a little easier to construct myself. However, getting the redLEDPin to light up was a little harder than I expected. Happy I got there in the end. 
 
 ## Reflections
-
+In reflecting on this game, I see why there is so much potential with the Interactive Media discipline. I'm sure this is only the very surface level and that there is so much more that can be discovered and created. I am quite nervous for my final project as this production assignment was quite challenging for me, so I am hoping that I can harness what I have learned and apply them in the future. 
