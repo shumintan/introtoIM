@@ -47,12 +47,13 @@ For a video of the change, click [Here!](https://drive.google.com/file/d/1bi9a5t
 
 - step 5:
 I added a timer and a 'point' system to keep track of how many clicks acccumulated.
+
 ![](BouncingBallGameFinal.png)
 
 ## Outcome
 Overall, this is my final outcome!
-Play [Here!](https://drive.google.com/file/d/1QIN-EHeG-M11UdtRr-tDIuZnxyG-hjFj/view?usp=sharing)
 
+Play [Here!](https://drive.google.com/file/d/1QIN-EHeG-M11UdtRr-tDIuZnxyG-hjFj/view?usp=sharing)
 
 ## Challenges
 I generally thought that writing and understanding Serial Communication was the toughest part of the task. I rewatched the video a couple times to fully grasp the concept. Since we built and coded the potentiometer together in class, I found that a little easier to construct myself. However, getting the redLEDPin to light up was a little harder than I expected. Happy I got there in the end. 
