@@ -38,13 +38,15 @@ With every click of 'circlePressed()' the idea was to send a serial message to A
 I added a potentiometer to my breadboard and decided that the value (based on the turnof the knob) will determine the color gradient of the balls on screen. This is the following schematic that I used to create this:
 
 ![](ColorChange1.png)
+
 ![](ColorChange2.png)
+
 ![](ColorChange3.png)
 
-Play [Here!](https://drive.google.com/file/d/1bi9a5tlX8sPnSvS961ctIoTNRoI5MZ4x/view?usp=sharing)
+For a video of the change, click [Here!](https://drive.google.com/file/d/1bi9a5tlX8sPnSvS961ctIoTNRoI5MZ4x/view?usp=sharing)
 
 - step 5:
-I added a timer and a 'point' system to keep track of the droplet collected. 
+I added a timer and a 'point' system to keep track of how many clicks acccumulated.
 ![](BoucingBallGameFinal.png)
 
 ## Outcome
