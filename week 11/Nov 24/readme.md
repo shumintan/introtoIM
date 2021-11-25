@@ -1,8 +1,8 @@
 # Week 11: Production Assignment
-
-## Synopsis:
 Production assignment - make a siple game that involves some kind of communication between Arduino and Processing!
 
+
+## Synopsis:
 - Make something that uses only one sensor on Arduino and make the ellipse in Processing move on the horizontal axis, in the middle of the screen, and nothing on Arduino is controlled by Processing
 - Make something that controls the LED brightness from Processing
 - Take the gravity wind example (https://github.com/aaronsherwood/introduction_interactive_media/blob/master/processingExamples/gravityExamples/gravityWind/gravityWind.pde) and make it so every time the ball bounces one led lights up and then turns off, and you can control the wind from one analog sensor
