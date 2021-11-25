@@ -35,7 +35,11 @@ With every click of 'circlePressed()' the idea was to send a serial message to A
  ````
 
 - step 4: 
-I added a potentiometer to my breadboard and decided that the value (based on the turnof the knob) will determine the color gradient of the balls on screen. This is the following schematic that I used to create this:
+I added a potentiometer to my breadboard and decided that the value (based on the turnof the knob) will determine the color gradient of the balls on screen. I first drew up the schematic: 
+
+![](BouncingBallSchematic.heic)
+
+Then tried turning the knob:
 
 ![](ColorChange1.png)
 
