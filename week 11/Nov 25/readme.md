@@ -21,3 +21,7 @@ This is what I was inspired by:
 ![](GenerativeHutInstagram.png)
 
 Giving the artist/audience agency in the interaction of this art. I'm not sure where this can take me just yet, but I really really liked this idea and would like to discuss more with Prof Shiloh about this idea :)
+
+You can find the video via: https://www.instagram.com/p/CWc0pGNss1L/
+
+Ever since I started Introduction to Interactive Media, I have been an avid follower of these coded art online and seek lots of inspiration from these works!!
