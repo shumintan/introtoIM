@@ -1,7 +1,7 @@
 # Final Project!
 To create anything interactive!! Here is a journal to document my journey:
 
-## Brainstorm and Inspiration
+## Brainstorm 
 I was thinking about an interactive art piece where the performer can alter the things on screen based on their interactivity. 
 
 This is what I was inspired by:
