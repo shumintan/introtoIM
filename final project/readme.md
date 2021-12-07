@@ -19,9 +19,9 @@ Ever since I started Introduction to Interactive Media, I have been an avid foll
 
 I was very inspired by the National Day Celebration and the fireworks that were occuring in various locations across Abu Dhabi. I decided to visit the Corniche and managed to capture a few videos/photos that became my main inspiration to my final project. 
 
-![](.png)
+![](NationalDayFireworks.JPG)
 
 I then coded and followed along with Daniel Shiffman, learning how to code the basic movements of fireworks on Processing. 
 Here is a link of his video: https://www.youtube.com/watch?v=CKeyIbT3vXI
 
-
+## Progress
