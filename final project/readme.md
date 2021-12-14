@@ -53,7 +53,88 @@ https://drive.google.com/file/d/1ZhSRbEOze75zE0iL8fk6XcCUTcTSwswX/view?usp=shari
 
 ![](ColorSensor.png)
 
-However, I ended up with using the web camera on my computer by reading the pixels and collecting the average pixel color that will be used in the 'fill()' function of the fireworks. 
+However, I ended up with using the web camera on my computer by reading the pixels and collecting the average pixel color that will be used in the 'fill()' function of the fireworks. I struggled a lot with this so I went to the IM lab to get some help, I referred to this code that the lab assistant showed me and managed to get it working.
+
+````
+import processing.video.*;
+Capture video;
+int locX, locY;
+//PImage prevFrame;
+float threshold=50;
+
+void setup() {
+ // size(640, 480);
+  //frameRate(2);
+  video = new Capture(this, 1200, 700);
+  video.start();
+  // prevFrame=createImage(640, 480, RGB);
+}
+
+float red;
+float green;
+float blue;
+
+void draw() {
+//  background(0);
+  if (video.available()) {
+    //  prevFrame.copy(video, 0, 0, 640, 480, 0, 0, 640, 480);
+    //  prevFrame.updatePixels();
+    video.read();
+  }
+  video.loadPixels();
+  // prevFrame.loadPixels();
+  loadPixels();
+  float totalMotion=0;
+
+  red = 0;
+  green = 0;
+  blue = 0;
+
+  for (int y=0; y<height; y++) {
+
+    for (int x=0; x<width; x++) {
+      int loc = (video.width-x-1)+(y*width);
+      color pix=video.pixels[loc];
+      //color prevPix=prevFrame.pixels[loc];
+      float r1=red(pix);
+      float g1=green(pix);
+      float b1=blue(pix);
+      //float r2=red(prevPix);
+      //float g2=green(prevPix);
+      //float b2=blue(prevPix);
+      //float diff=dist(r1, g1, b1, r2, g2, b2);
+      //println(r1, g1, b1);
+      /*  totalMotion+=diff;
+       if (diff>threshold) {
+       pixels[loc]=color(255);
+       } else {
+       pixels[loc]=color(0);
+       } */
+      red = red+r1; 
+      green = green+g1; 
+      blue = blue+b1;
+
+
+      if ((x == int (width/2)) && (y == int (height/2))) {
+        println (r1, g1, b1);
+      }
+
+      //   println(r1, g1, b1);
+    }
+  }
+}
+
+/*
+to get the color into needed variable
+ color col = (r1,g1,b1);
+ */
+```` 
+
+## Final Project
+
+This is a short video of the final project:
+
+https://drive.google.com/file/d/1Spyo9vjmkZzVgtT3rm0_lth_zRQjxcB5/view?usp=sharing
 
 ## Challenges
 
