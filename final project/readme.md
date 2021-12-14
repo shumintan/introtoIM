@@ -56,6 +56,9 @@ However, I ended up with using the web camera on my computer by reading the pixe
 
 ## Challenges
 
-The biggest challenge for me was 
+The biggest challenge for me was definitely the first half of the project. I spent a lot of time on refining the code for serial communication between Arduino and Processing, referring to both class notes and examples for help. The importance of 'handshaking' was really important especially when you are working with data and string events. It became easier and easier after figuring out the communication for the first potentiometer. 
 
-## Challenges
+
+## Reflection
+
+The journey of Intro to Interactive Media hasn't been an easy one for me, but I am really happy with how far I have come. My favorite part of this final project was building the breadboard for Arduino. Everything - from the potentiometer, 5V, GND, and wires - seem to make logical sense in my brain and I built it very fast. I really appreciate this 'hands-on' part. Writing the code and communication between the two was perhaps the biggest challenge for me. I am also very happy with my project and enjoyed the process of it all. I recall even listening to Katy Perry's 'Fireworks' while coding this final project with friends to draw inspiration and motivate myself. 
