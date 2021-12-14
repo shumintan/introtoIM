@@ -36,6 +36,7 @@ https://drive.google.com/file/d/1j5a73FVZGMEuMsx8WUAU8ISXr3E7L5c9/view?usp=shari
 
 3. I finally got a final project which you find on gitHub, which shows how you can control the fireworks with the values of three potentiometers. 
 
+![](ThreePotentiometerBreadboard.png)
 
 4. User feedback!
 
