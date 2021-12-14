@@ -53,7 +53,7 @@ https://drive.google.com/file/d/1ZhSRbEOze75zE0iL8fk6XcCUTcTSwswX/view?usp=shari
 
 ![](ColorSensor.png)
 
-However, I ended up with using the web camera on my computer by reading the pixels and collecting the average pixel color that will be used in the 'fill()' function of the fireworks. I struggled a lot with this so I went to the IM lab to get some help, I referred to this code that the lab assistant showed me and managed to get it working.
+However, I ended up  using the web camera on my computer as a color sensor, letting the camera read the pixels and collect the average pixel color that will later be used in the 'fill()' or 'stroke()' function of the fireworks. I struggled a lot with this so I went to the IM lab to get some help, I referred to this code that the lab assistant showed me and managed to integrate some of it in my own code. 
 
 ````
 import processing.video.*;
